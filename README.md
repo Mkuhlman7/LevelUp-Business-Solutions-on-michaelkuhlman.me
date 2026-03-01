@@ -1,10 +1,10 @@
 # LevelUp Business Solutions - Landing Page
 
-AI Consulting landing page for michaelkuhlman.me
+AI Consulting landing page for levelupbusinessorlando.com
 
 ## Deploy to GitHub Pages
 
-1. Create a new repo on GitHub (e.g., `levelup-site` or `michaelkuhlman.me`)
+1. Create a new repo on GitHub levelupbusinessorlando.com
 2. Push this code:
 
 ```bash
